@@ -14,5 +14,5 @@ print(...)
 • no caso de aspas, basta trocar entre aspas simples e duplas para um codigo mais limpo
 
 • a função type tem diversas funções, sendo uma delas mostrar o tipo de dado no parámetro
-• a elipses (...) pode ser usada, entre outras coisas, como placeholder no código
+• a elipsis (...) pode ser usada, entre outras coisas, como placeholder no código
 '''
