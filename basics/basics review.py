@@ -3,6 +3,8 @@ print("Olá \"amigo\"")
 print('Olá "amigo"')
 print(type(0))
 
+print(...)
+
 '''
 • sep é usado quando queremos alterar o separados dos argumentos da função print
 • end é usado para alterar o final da mensagem do print. Por padrão é \n
@@ -12,4 +14,5 @@ print(type(0))
 • no caso de aspas, basta trocar entre aspas simples e duplas para um codigo mais limpo
 
 • a função type tem diversas funções, sendo uma delas mostrar o tipo de dado no parámetro
+• a elipses (...) pode ser usada, entre outras coisas, como placeholder no código
 '''
